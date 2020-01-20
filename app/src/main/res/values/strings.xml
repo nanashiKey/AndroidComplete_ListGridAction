@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LatihanPreview</string>
+    <string name="btn">Tombol 1</string>
+    <string name="btn_baru">Tombol 2</string>
+    <string name="btn_baru_lagi">Tombol 3</string>
+    <string name="login">LOGIN</string>
+
+    <!-- data untuk list-->
+    <string-array name="data_list">
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Bogor</item>
+        <item>Bekasi</item>
+        <item>Surabaya</item>
+        <item>Tangerang</item>
+        <item>Solo</item>
+        <item>Semarang</item>
+        <item>Padang</item>
+        <item>Kalimantan</item>
+    </string-array>
+</resources>
